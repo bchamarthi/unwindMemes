@@ -13,6 +13,7 @@
 		EB368D9422F3E09B00509168 /* memes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB368D9222F3E09B00509168 /* memes.xcdatamodeld */; };
 		EB368D9622F3E09E00509168 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB368D9522F3E09E00509168 /* Assets.xcassets */; };
 		EB368D9922F3E09E00509168 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB368D9722F3E09E00509168 /* LaunchScreen.storyboard */; };
+		EB368DA122F3E54800509168 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB368DA022F3E54800509168 /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB368D9522F3E09E00509168 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB368D9822F3E09E00509168 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB368D9A22F3E09E00509168 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB368DA022F3E54800509168 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EB368D8B22F3E09B00509168 /* AppDelegate.swift */,
 				EB368D8D22F3E09B00509168 /* ViewController.swift */,
 				EB368D8F22F3E09B00509168 /* Main.storyboard */,
+				EB368DA022F3E54800509168 /* ImageCollectionViewCell.swift */,
 				EB368D9522F3E09E00509168 /* Assets.xcassets */,
 				EB368D9722F3E09E00509168 /* LaunchScreen.storyboard */,
 				EB368D9A22F3E09E00509168 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				EB368D8E22F3E09B00509168 /* ViewController.swift in Sources */,
 				EB368D9422F3E09B00509168 /* memes.xcdatamodeld in Sources */,
+				EB368DA122F3E54800509168 /* ImageCollectionViewCell.swift in Sources */,
 				EB368D8C22F3E09B00509168 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
